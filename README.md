@@ -1,6 +1,6 @@
 ![Screenshot](lego_scatter_chart.jpg)
 ![Screenshot](lego_log_scale.jpg)
-![Screenshot](lego_bar_chart.jpg)
+![Screenshot](day-73-lego-analysis.png)
 
 # Merging DataFrames and LEGO kit sales Charting with MatPlotLib, Pandas, Python in Colab Notebooks.
 - 👋 Hi, I’m @WilliamSpanfelner
